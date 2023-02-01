@@ -1,0 +1,45 @@
+body{
+background: blue;
+nav {
+    display: table;
+    
+    p{
+        text-align: center;
+    }
+}
+width: 100%;
+}
+ul li{
+    display: inline;
+    text-align: center;
+}
+
+nav ul li a{
+    background: yellow;
+    
+    padding: 2%;
+    
+    
+}
+.logo{
+    width: 20%;
+    margin: auto;
+    display: table;
+    
+}
+.btn{
+    font-size: 10px;
+    background: black;
+    color: white;
+    padding: 20px 45px 20px 45px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    background: white;
+    color: black;
+}
+footer p{
+    text-align: center;
+    
+}
